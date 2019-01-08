@@ -1,3 +1,3 @@
 # forLearningPython
 put some little code practice here...
-Just for fun. And reminder me about python because I am a python learner.
+Just for fun.For learning.
